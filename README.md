@@ -12,10 +12,10 @@
 **Example Usage**
 
 > -c 500
-> > (result) : 3.95
+> > (result) : 395
 
 > -con 500
-> > (result) : 3.95
+> > (result) : 395
 
 >  -convert 500
-> > (result) : 3.95
+> > (result) : 395
